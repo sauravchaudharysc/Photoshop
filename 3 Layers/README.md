@@ -52,3 +52,29 @@ Require at least two selected layers or group and you must have move tool activa
 
 ![5](5.png)
 
+## Layers Types
+
+### 1. Shape Layer
+
+We can identify the layer to be shape layer by looking at the thumbnail of the layers.
+
+![6](6.png)
+
+The biggest advantage of the shape layer is their vector property. We can enlarge it to the shape we need and it maintain it sharpness. But there is a disadvantage as it doesn’t allow editing.
+
+### 2. Raster Layer
+
+The most used layer in photoshop, it can be identified by looking at it thumbnail there is no additional icon.  It gives complete freedom to edit. But has a disadvantage it looses it quality on enlargement. 
+
+### 3. Smart Object 
+
+We can identify the layer to be shape layer by looking at the thumbnail of the layers. These are special layer which hold the pixel because it thinks the user might need the pixel later on so the picture doesn’t lose it quality again on enlargement. It isn’t directly editable. 
+
+![7](7.png)
+
+### 4. Text Layer
+
+It is always editable. It can be rasterized but it isn’t preferred because it looses it editable quality. Text Layer have vector properties enlarge without worries.
+
+![8](8.png)
+

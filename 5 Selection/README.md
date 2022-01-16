@@ -5,10 +5,10 @@ It helps to isolate certain part of image in order to better focus on that area.
 ​	The ways of selection are :-
 
 									1.	Marquees
-   									2.	Lassos
-   									3.	Quick Selection
-   									4.	Magic Wand
-   									5.	Pen Tool 
+									2.	Lassos
+									3.	Quick Selection
+									4.	Magic Wand
+									5.	Pen Tool 
 
 **Deselect : Ctrl + D**
 
@@ -73,4 +73,6 @@ Alt to subtract selection.
 It’s underneath the Quick Selection. Use Shift + W to use magic wand. It is used when there is higher similarity. 
 
 So we should decide which to use among them.
+
+## Activities
 
