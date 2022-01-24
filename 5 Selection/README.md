@@ -76,3 +76,77 @@ So we should decide which to use among them.
 
 ## Activities
 
+### Remove Football Background
+
+![4](4.png)
+
+#### Steps
+
+1. Choose Quick Selection and select the football.
+
+   ![5](5.png)
+
+   **Adjust the small mistakes using ALT to remove the extra selection.**
+
+2. Choose Layer Mask to remove the layer.
+
+   ![6](6.png)
+
+3. Remove the extra corners selection using eraser. But a better option would be to use pen tool to maintain it roundness precisely. 
+
+   ![7](7.png)
+
+   After selection using pen tool. Right Click and choose make selection. Then Paint it with Black Brush to remove the outer region.
+
+**Now we are all set. We need to adjust the background now for that we will use adjustment layer.**
+
+​	![8](8.png)
+
+**After choosing the color we get this**
+
+![9](9.png)
+
+Now we need to place shadow. 
+
+Select the ellipse tool and draw a ellipse to represent a shadow. Now make it blur specifically Gaussian Blur to look like shadow. Then use gradient tool to lighten it. The ellipse should have it layer mask to perform this.
+
+The final output is 
+
+![10](10.png)
+
+
+
+### Remove Background & Mask Hair
+
+![tsk](tsk.png)
+
+#### Steps
+
+1. Choose Quick Selection and select the girl.
+
+2. Press the Select & Mask Button 
+
+   ![sel](sel.png)
+
+3. To deal with hair. In view mode we should choose the worst scenario view mode to solve our issues with selection. Choose On Layers -> Select Overlay -> Change the opacity to 100%.
+
+   ![13](13.png)
+
+   The result will be as shown below :- 
+
+![12](12.png)
+
+4. Grab the refine edge brush **(R)** and color around the white portion.
+
+![14](14.png)
+
+5. Choose On Layers -> Select On Layers. To remove the whitish portion choose Decontaminate colors.
+
+   ![15](15.png)
+
+   **Choose Ok and we get the output.**
+
+    
+
+![16](16.png)
+
