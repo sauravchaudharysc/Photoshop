@@ -60,7 +60,42 @@ We can identify the layer to be shape layer by looking at the thumbnail of the l
 
 ![6](6.png)
 
-The biggest advantage of the shape layer is their vector property. We can enlarge it to the shape we need and it maintain it sharpness. But there is a disadvantage as it doesn’t allow editing.
+The biggest advantage of the shape layer is their vector property. We can enlarge **(Ctrl + T)** it to the shape we need and it maintain it sharpness. But there is a disadvantage as it doesn’t allow editing.
+
+​	Tools in shape layer :- 
+
+​	![6.1](6.1.png)
+
+*Hold Shift and use the respective tool to draw in equal proportion.*
+
+#### Design Web Buttons
+
+1. Use Striking Colors
+
+   - Choose a rectangle with radius 5px.
+   - Change the background to red.
+   - Type the text with desired font & style.
+   - Align the text.
+
+2. Use Rounded Corners
+
+   - Choose a rectangle with radius 25px.
+   - Change the background to green.
+   - Type the text with desired font & style.
+   - Align the text.
+
+3. Use Gorgeous Fonts
+
+   *Use Google Font to browse popular fonts.*
+
+4. Dont Clash with Other Buttons
+
+5. Add Icons to Button To Add Value
+
+   - Download icons from flat icon.
+   - Use Shift and arrows to move 10 pixel.
+
+![6.2](6.2.png)
 
 ### 2. Raster Layer
 

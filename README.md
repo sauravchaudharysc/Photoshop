@@ -15,7 +15,7 @@
 | L                   | Lasso Tool                                         |
 | M                   | Marquee Tool                                       |
 | W                   | Quick Selection Tool                               |
-|                     |                                                    |
+| U                   | Rectangle Tool                                     |
 |                     |                                                    |
 |                     |                                                    |
 | Ctrl + Delete       | Fill Background Color                              |
