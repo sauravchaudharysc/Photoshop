@@ -16,7 +16,7 @@
 | M                   | Marquee Tool                                       |
 | W                   | Quick Selection Tool                               |
 | U                   | Rectangle Tool                                     |
-|                     |                                                    |
+| A                   | Selection or Black Arrow                           |
 |                     |                                                    |
 | Ctrl + Delete       | Fill Background Color                              |
 | Alt + Delete        | Fill Foreground Color                              |

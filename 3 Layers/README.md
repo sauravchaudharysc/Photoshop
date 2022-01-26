@@ -97,6 +97,10 @@ The biggest advantage of the shape layer is their vector property. We can enlarg
 
 ![6.2](6.2.png)
 
+#### Use Custom Shapes
+
+We can download shapes from [Click Me](http://www.shapes4free.com/). These shapes are vector so we can enlarge them accordingly.
+
 ### 2. Raster Layer
 
 The most used layer in photoshop, it can be identified by looking at it thumbnail there is no additional icon.  It gives complete freedom to edit. But has a disadvantage it looses it quality on enlargement. 
